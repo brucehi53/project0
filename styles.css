@@ -1,0 +1,19 @@
+body {
+	
+	background-color: powderblue;
+
+}
+
+	#rw {
+		background-color: red;
+		color: white;
+	}
+	
+	.pw {
+		background-color: purple;
+		color: white;
+	}
+	
+	div ~ p {
+		background-color: yellow;
+	}
